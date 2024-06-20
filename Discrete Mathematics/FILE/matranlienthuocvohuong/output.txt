@@ -1,0 +1,8 @@
+canh song song : 
+0 1
+3 4
+vong tai dinh : 
+1  
+dinh treo :
+2  
+ko co dinh co lap

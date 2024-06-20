@@ -1,0 +1,8 @@
+canh song song cung huong : 
+0 2
+1 1
+canh song song nguoc huong : 
+3 5
+5 3
+vong tai dinh : 
+1 4  

@@ -1,0 +1,6 @@
+Canh song song : 
+2 3
+Vong tai dinh : 
+5  
+Khong co dinh treo 
+Khong co dinh co lap

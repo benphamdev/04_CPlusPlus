@@ -1,0 +1,6 @@
+ko co canh //
+vong tai dinh : 
+5  
+dinh treo :
+3 5  
+ko co dinh co lap
